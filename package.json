@@ -66,5 +66,8 @@
       "cross-env eslint --fix",
       "cross-env prettier --write"
     ]
+  },
+  "dependencies": {
+    "rimraf": "^6.0.1"
   }
 }
